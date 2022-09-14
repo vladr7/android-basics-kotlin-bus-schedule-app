@@ -58,6 +58,8 @@ class StopScheduleFragment: Fragment() {
         }
     }
 
+
+    // part 2
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
